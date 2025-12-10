@@ -1,0 +1,33 @@
+BRIDGE,,347.5,,915,,,,6.305677,,,,,,,,50.75,46.5,,3.46,4.02,226.9666667,209.05,6.788573333,
+jump type,Jump Names,gap (cm),unc,"distance from previous landing
+(along ground)
+(m)","spacing info
+(whats before)",unc,"height (inches)
+
+(f, in.decimal)",lip height (m),unc,"landing height above lip
+(imperial)
+
+(f, in.decimal)","landing height
+(wrt flatbottom)
+(cm)",unc,"angle
+(phone)","angle
+(stick)",unc,"angle (phone)
+wrt ground","angle (stick)
+wrt ground",empty,"effective radius
+(phone)","effective radius (m)
+(stick)","jump size 1
+gap x angle (phone) [m x deg]","jump size 2
+gap x angle (phone)","jump area
+height x gap
+[m x m]","js4
+something?
+speed?
+gap x radius"
+skipper,setup,310,,-,first jump,,x,x,,x,x,,14,12,,14,12,,x,x,x,x,x,
+straight,1 - first,360,,740,skipper,,"5, 8",170.18,,x,x,,63,57,,63,57,,3.12,3.74,226.8,205.2,6.12648,
+straight,2 - skinny,385,,1035,normal,,"6, 5",193.04,,x,x,,64,60,,64,60,,3.44,3.86,246.4,231,7.43204,
+straight,3 - wide,335,,970,normal,,"6, 9",203.2,,x,x,,62,57,,62,57,,3.83,4.46,207.7,190.95,6.8072,
+hip right,4 - split right,465,10,1330,normal,,"6, 8.75",202.565,,x,x,,58,54,,58,54,,4.31,4.91,269.7,251.1,9.4192725,
+hip left,4 - split left,450,,1330,normal,,"6, 8.75",202.565,,x,x,,58,54,,58,54,,4.31,4.91,261,243,9.115425,
+straight,5R - big jump,445,,1220,normal,,"7, 5",223.52,,x,x,,61,57,,61,57,,4.34,4.91,271.45,253.65,9.94664,
+hip right,5L - hip,385,15,1210,normal,,"7, 3",218.44,,x,x,,58,55,,58,55,,4.65,5.12,223.3,211.75,8.40994,

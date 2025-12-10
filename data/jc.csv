@@ -1,0 +1,30 @@
+JC,,377,,1148.333333,,,,4.551,,,,,,,,55.5,46.5,,0.75,0.79,200.5275,167.26,4.91075,
+jump type,Jump Names,gap (cm),unc,"distance from previous landing
+(along ground)
+(m)","spacing info
+(whats before)",unc,"height (inches)
+
+(f, in.decimal)",lip height (m),unc,"landing height above lip
+(imperial)
+
+(f, in.decimal)","landing height
+(wrt flatbottom)
+(cm)",unc,"angle
+(phone)","angle
+(stick)",unc,"angle (phone)
+wrt ground","angle (stick)
+wrt ground",empty,"effective radius
+(phone)","effective radius (m)
+(stick)","jump size 1
+gap x angle (phone) [m x deg]","jump size 2
+gap x angle (phone)","jump area
+height x gap
+[m x m]","js4
+something?
+speed?
+gap x radius"
+straight,jump 1 (longer lower),420,,x,first jump,,,140,15,x,x,,53.5,46,,53.5,46,,0.78,0.81,224.7,193.2,5.88,
+straight,jump 2 (slight hip),320,,1330,normal,,,175,15,x,x,,64.5,56,,64.5,56,,0.92,0.96,206.4,179.2,5.6,
+hip right,jump 3 (hip),303,,1135,normal,,,185,15,x,x,,69.5,58,,69.5,58,,0.96,1.00,210.585,175.74,5.6055,
+skipper,jump 4 - long n low,465,,980,normal,,,55,15,x,x,,34.5,26,,34.5,26,,0.35,0.38,160.425,120.9,2.5575,
+straight,jump 5 - big guy,480,,1350,skipper,,,200,15,x,x,,57.5,52,,57.5,52,,1.08,1.12,276,249.6,9.6,

@@ -1,0 +1,31 @@
+Riverside,,396.25,,1341.666667,,,,7.206488,,,,,,,,64.75,60,,3.83,4.39,256.4125,237.75,8.6928325,
+jump type,Jump Names,gap (cm),unc,"distance from previous landing
+(along ground)
+(m)","spacing info
+(whats before)",unc,"height (inches)
+
+(f, in.decimal)",lip height (m),unc,"landing height above lip
+(imperial)
+
+(f, in.decimal)","landing height
+(wrt flatbottom)
+(cm)",unc,"angle
+(phone)","angle
+(stick)",unc,"angle (phone)
+wrt ground","angle (stick)
+wrt ground",empty,"effective radius
+(phone)","effective radius (m)
+(stick)","jump size 1
+gap x angle (phone) [m x deg]","jump size 2
+gap x angle (phone)","jump area
+height x gap
+[m x m]","js4
+something?
+speed?
+gap x radius"
+straight,first big,450,,x,first jump,,"6, 11.5",209.55,,"1, 1",240.03,,-26,-30,,64,60,,3.73,4.19,288,270,9.42975,
+straight,second big,425,,1385,normal,,"7, 6",226.06,,"1, 6.5",270.51,,25,30,,65,60,,3.92,4.52,276.25,255,9.60755,
+straight,third,360,,1360,normal,,"7, 4",220.98,,"1, 4",259.08,,-26,-30,,64,60,,3.93,4.42,230.4,216,7.95528,
+straight,fourth (trick),350,,1280,normal,,"7, 4.5",222.25,,"1, .25",250.825,,-24,-30,,66,60,,3.75,4.45,231,210,7.77875,
+roller,roller,x,,960,normal,,x,x,,x,x,,,,,,,,,,,,,
+hip left,last,340,"330, 360, 430",1050,roller,,"7, 2",215.9,,"1, 0",243.84,high,-24,-30,,66,60,,3.64,4.32,224.4,204,7.3406,

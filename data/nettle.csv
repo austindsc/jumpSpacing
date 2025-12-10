@@ -1,0 +1,33 @@
+NETTLE,,363.3333333,,1148.333333,,,,6.914896,,,,,,,,70.125,66,,3.81,4.49,230.63,210.57,7.65,
+jump type,Jump Names,gap (cm),unc,"distance from previous landing
+(along ground)
+(m)","spacing info
+(whats before)",unc,"height (inches)
+
+(f, in.decimal)",lip height (m),unc,"landing height above lip
+(imperial)
+
+(f, in.decimal)","landing height
+(wrt flatbottom)
+(cm)",unc,"angle
+(phone)","angle
+(stick)",unc,"angle (phone)
+wrt ground","angle (stick)
+wrt ground",empty,"effective radius
+(phone)","effective radius (m)
+(stick)","jump size 1
+gap x angle (phone) [m x deg]","jump size 2
+gap x angle (phone)","jump area
+height x gap
+[m x m]","js4
+something?
+speed?
+gap x radius"
+roller,roller,x,,x,berm,,x,x,,x,x,,,,"*normally a bit steeper, Braeden was riding in the rain",90,90,,x,x,x,x,x,
+straight,straight,365,,970,berm,,"7, 1",213.36,,"1, 11.5",270.51,,27.5,32,,62.5,58,,3.96,4.54,228.125,211.7,7.78764,
+hip left,hip,350,"285,350,430",1195,normal,,"7, 2",215.9,,"1, 6.5",260.35,,25,30,,65,60,,3.74,4.32,227.5,210,7.5565,
+straight,trick,375,,1280,normal,,"6, 9",203.2,,"0, 11",228.6,,-27,-34,,63,56,,3.72,4.61,236.25,210,7.62,
+hip right,right hip,440,"430,440,470",1320,normal,,"7, 0.75",212.725,,"1, 2",245.745,,-28,-32,,62,58,,4.01,4.53,272.8,255.2,9.3599,
+hip left,long left hip,490,"500, 490, 530",1395,normal,,"7, 1",213.36,,"1, 1",243.84,higher on rightside (where noone lands),-24,-30,,66,60,,3.60,4.27,323.4,294,10.45464,
+straight,straight,580,,1800,waterfall,,"7, 2.5",217.17,,"1, 4",255.27,,29,35,,61,55,,4.22,5.09,353.8,319,12.59586,
+hip right,last,445,"425,445,480",1630,normal,,"8, 6.5",257.81,,"1, 4",295.91,,-22,-29,,68,61,,4.12,5.00,302.6,271.45,11.472545,

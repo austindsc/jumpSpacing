@@ -1,0 +1,29 @@
+Loutet,,375,,1138.333333,,,,5.524627,,,,,,,,60.375,53.75,,3.34,4.13,226.39375,201.3625,6.311026875,
+jump type,Jump Names,gap (cm),unc,"distance from previous landing
+(along ground)
+(m)","spacing info
+(whats before)",unc,"height (inches)
+
+(f, in.decimal)",lip height (m),unc,"landing height above lip
+(imperial)
+
+(f, in.decimal)","landing height
+(wrt flatbottom)
+(cm)",unc,"angle
+(phone)","angle
+(stick)",unc,"angle (phone)
+wrt ground","angle (stick)
+wrt ground",empty,"effective radius
+(phone)","effective radius (m)
+(stick)","jump size 1
+gap x angle (phone) [m x deg]","jump size 2
+gap x angle (phone)","jump area
+height x gap
+[m x m]","js4
+something?
+speed?
+gap x radius"
+straight,burger,365,,x,first jump,,"5, 11.75",179.705,,x,x,,63,57,,63,57,,3.29,3.95,229.95,208.05,6.5592325,
+straight,second,360,,1105,normal,,"5, 6.0",165.1,,x,x,,60,54,,60,54,,3.30,4.01,216,194.4,5.9436,
+straight,third (to be removed),375,,1150,normal,,"5, 6.5",166.37,,x,x,,57.5,52,,57.5,52,,3.60,4.33,215.625,195,6.238875,
+hip right,hip,400,,1160,normal,,"5, 5",162.56,,x,x,,61,52,,61,52,,3.16,4.23,244,208,6.5024,

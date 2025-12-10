@@ -1,0 +1,29 @@
+Clinic,,423.75,,1126.666667,,,,6.734386667,,,,,,,,61.66666667,57.66666667,,3.91,4.41,249.75,233.55,8.32231,
+jump type,Jump Names,gap (cm),unc,"distance from previous landing (along ground)(m)","spacing info
+(whats before)",unc,"height (inches)
+
+(f, in.decimal)",lip height (m),unc,"landing height above lip
+(imperial)
+
+(f, in.decimal)","landing height
+(wrt flatbottom)
+(cm)",unc,"angle
+(phone)","angle
+(stick)",unc,"angle (phone)
+wrt ground","angle (stick)
+wrt ground",empty,"effective radius
+(phone)","effective radius (m)
+(stick)","jump size 1
+gap x angle (phone) [m x deg]","jump size 2
+gap x angle (phone)","jump area
+height x gap
+[m x m]","js4
+something?
+speed?
+gap x radius"
+skipper,skipper,480,,x,first jump,,x,x,,x,x,,-,-,,x,x,,,,,,,
+straight,first,390,,895,skipper,790 straight across,"6, 4",190.5,,"0, 11.5",217.17,,60,57,,60,57,,3.81,4.18,234,222.3,7.4295,
+straight,second,405,,1265,normal,,"7, 4",220.98,,"1, 7.75",268.605,,65,59,,65,59,,3.83,4.56,263.25,238.95,8.94969,
+hip right,hip,420,"415, 420, 455",1220,normal,,"6, 9.5",204.47,,"1, 7.5",251.46,,60,57,,60,57,,4.09,4.49,252,239.4,8.58774,
+straight,booster,440,,1390,normal,,"7, 11.5",240.03,,"1, 7.25",286.385,,64,61,,64,61,,4.27,4.66,281.6,268.4,10.56132,
+trick,trick,330,18 degrees uphill to landing,1470,normal,,"8, 8.5",262.89,,"3, 2.5",358.14,,69,64,,69,64,,4.10,4.68,227.7,211.2,8.67537,

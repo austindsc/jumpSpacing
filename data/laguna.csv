@@ -1,0 +1,28 @@
+LAGUNA,,705,,1820,,,,7.373112,,,,,,,,58,53.33333333,,4.78,5.58,406.4,373.9166667,15.69741167,
+jump type,Jump Names,gap (cm),unc,"distance from previous landing
+(along ground)
+(m)","spacing info
+(whats before)",unc,"height (inches)
+
+(f, in.decimal)",lip height (m),unc,"landing height above lip
+(imperial)
+
+(f, in.decimal)","landing height
+(wrt flatbottom)
+(cm)",unc,"angle
+(phone)","angle
+(stick)",unc,"angle (phone)
+wrt ground","angle (stick)
+wrt ground",empty,"effective radius
+(phone)","effective radius (m)
+(stick)","jump size 1
+gap x angle (phone) [m x deg]","jump size 2
+gap x angle (phone)","jump area
+height x gap
+[m x m]","js4
+something?
+speed?
+gap x radius"
+straight,first,830,,x,first jump,,"6, 8",200.66,,"0, 5",210.82,,-36,-40,"*normally a bit steeper, Braeden was riding in the rain",54,50,,4.87,5.62,448.2,415,16.65478,
+hip right,second (hip right),645,"615, 645, 680",1750,normal,,"7, 11.5",240.03,,"2, 4.5",309.88,,-30,-35,,60,55,,4.80,5.63,387,354.75,15.481935,
+straight,third (kinda trick),640,,1890,waterfall,,"7, 9",233.68,,"1, 8.0",281.94,,-30,-35,,60,55,,4.67,5.48,384,352,14.95552,

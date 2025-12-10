@@ -1,0 +1,33 @@
+FP,,398.3333333,,1090,,,,5.873496,,,,,,,,67.5,62.5,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,
+jump type,Jump Names,gap (cm),unc,"distance from previous landing
+(along ground)
+(m)","spacing info
+(whats before)",unc,"height (inches)
+
+(f, in.decimal)",lip height (m),unc,"landing height above lip
+(imperial)
+
+(f, in.decimal)","landing height
+(wrt flatbottom)
+(cm)",unc,"angle
+(phone)","angle
+(stick)",unc,"angle (phone)
+wrt ground","angle (stick)
+wrt ground",empty,"effective radius
+(phone)","effective radius (m)
+(stick)","jump size 1
+gap x angle (phone) [m x deg]","jump size 2
+gap x angle (phone)","jump area
+height x gap
+[m x m]","js4
+something?
+speed?
+gap x radius"
+straight,first,395,,x,first jump,,"5, 8.5",171.45,,"0, 0",171.45,,-29,-35,"*normally a bit steeper, Braeden was riding in the rain",61,55,,3.33,4.02,240.95,217.25,6.772275,
+straight,second,380,,1085,normal,,"6, 0.5",181.61,,"1, 0",209.55,,-29,-36,,61,54,,3.53,4.41,231.8,205.2,6.90118,
+roller,roller,x,,1085,normal,,x,x,,x,x,,,,,90,90,,#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!,
+straight,third,420,,1100,roller,,"6,1.5",184.15,,"0, 10",207.01,,-32,-39,,58,51,,3.92,4.97,243.6,214.2,7.7343,
+hip right,fourth,375,"5, hip is centered",1070,normal,,"6, 7.5",199.39,,"1, 3.5",236.22,,30,36,,60,54,,3.99,4.84,225,202.5,7.477125,
+skipper,skipper,390,,x,berm,,"4, 5",132.08,,"0,0",132.08,,-30,-36,,60,54,,2.64,3.20,234,210.6,5.15112,
+straight,big,465,,1405,skipper,,"6, 1.5",184.15,,"0, 0",184.15,,,,,,,,,,,,,
+,last lip,x,,1285,normal,,x,,,x,,,,,,,,,,,,,,

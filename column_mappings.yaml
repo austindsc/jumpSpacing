@@ -1,0 +1,17 @@
+# Column mappings for each location's CSV files
+clinic:
+  jump type: type
+  Jump Names: name
+  gap (cm): gap_cm
+  "distance from previous landing\n(along ground)\n(m)": dpl_m
+  "spacing info\n(whats before)": spacing_info
+  lip height (m): height_cm
+  "landing height\n(wrt flatbottom)\n(cm)": landing_height_cm
+  "angle (phone)\nwrt ground": angle_phone_ground
+  "angle (stick)\nwrt ground": angle_stick_ground
+
+fp:
+  jump type: type
+  Jump Names: name
+  gap (cm): gap_cm
+  # Add more mappings as needed
